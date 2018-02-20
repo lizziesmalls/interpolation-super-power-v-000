@@ -8,6 +8,6 @@ blue = "B: blue"
 indigo = "I: indigo"
 violet = "V: violet"
 
-def display_rainbow(0,1,2,3,4,5,6)
+def display_rainbow(red,orange,yellow,green,blue,indigo,violet)
   puts ("#{red},#{orange},#{yellow},#{green},#{blue},#{indigo},#{violet}")
 end
